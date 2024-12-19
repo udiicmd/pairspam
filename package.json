@@ -3,7 +3,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Galirus_&_Gusti",
+    "author": "KIMS",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
